@@ -1,0 +1,15 @@
+{
+  "name": "Deskr",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "pack": "electron-builder --dir",
+    "dist": "electron-builder"
+  },
+  "description": "Flickr Desktop Client - By Vortex Deskware",
+  "author": "Vortex Deskware",
+  "devDependencies": {
+    "electron": "^16.2.8"
+  }
+}
